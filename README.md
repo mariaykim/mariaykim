@@ -1,23 +1,15 @@
-<!--
-**mariaykim/mariaykim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center"> MARIA KIM </h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">
+   Mad Scientist 👩‍🔬&nbsp; ➡️&nbsp; Software Engineer 👩‍💻 
+</h3>
 
-# Maria Kim - Mad Scientist 👩‍🔬&nbsp; ➡️ &nbsp;Full Stack Software Engineer 👩‍💻
-
-<a href="https://www.linkedin.com/in/mariakim21/"><img alt="LinkedIn" src="https://img.shields.io/badge/-MARIA%20KIM-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:jsmkim09@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-jsmkim09@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/mariakim21/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
+  <a href="mailto:jsmkim09@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-jsmkim09@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+</p>
+  
 ## const who_Am_I = {
 👩‍🎓 &nbsp;[Lifetime-Learner] : "I am passionate about learning, whether that be a new technology or a cooking life-hack about avoiding having to peel potatoes." <br />
 
@@ -27,11 +19,11 @@ Here are some ideas to get you started:
 🌳 &nbsp;[Civic-Engagement] : "I believe that communities thrive with active participation from its citizens. I volunteer at the Central Texas Food Bank and donate/fundraise to charity through my involvement with the running community" 
 <br />
 
-}
+## }
 
 ## Hunting Down New Test Subjects&nbsp; 🧟  &nbsp;(Actively Seeking For Open Job Opportunities)
+- I am living in Austin, TX. However, I am open to work remotely and relocate to San Francisco, CA or New York, NY
 
 ## Current Experiments&nbsp; ⚛️ &nbsp;(Software Projects)
 
 ## Scientific Powers&nbsp; 😎 &nbsp;(Technical Skills)
-
