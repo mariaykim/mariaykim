@@ -11,7 +11,7 @@
 </p>
 
 ## Hunting Down New Test Subjects&nbsp; 🧟  &nbsp;(Actively Seeking For Open Job Opportunities)
-- I am living in Austin, TX. However, I am open to work remotely or relocate to San Francisco, CA and New York, NY
+- I am living in Austin, TX. However, I am open to work remotely or relocate
 
 <br />
 
