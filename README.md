@@ -88,7 +88,7 @@
 ## const who_Am_I = {
 👩‍🎓 &nbsp;[Lifetime-Learner] : "I am passionate about learning, whether that be a new technology or a cooking life-hack about avoiding having to peel potatoes." <br />
 
-🎼  &nbsp;[Self-Expression] : "Music is one of my favorite creative outlets (along with stick figure doodling). \
+🎼  &nbsp;[Self-Expression] : "Music is one of my favorite creative outlets (along with stick figure doodling)." \
 <br />
 
 🌳 &nbsp;[Civic-Engagement] : "I believe that communities thrive with active participation from its citizens. I volunteer at the Central Texas Food Bank and donate/fundraise to charity through my involvement with the running community" 
