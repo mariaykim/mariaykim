@@ -11,13 +11,12 @@
 </p>
 
 ## Hunting Down New Test Subjects&nbsp; 🧟  &nbsp;(Actively Seeking For Open Job Opportunities)
-- I am living in the New York City Metropolitan Area - open to work remotely or relocate
+- I am living in the New York City Metropolitan Area - open to work remotely or hybrid
 
 <br />
 
 ## Current Experiments&nbsp; ⚛️ &nbsp;(Software Projects)
-- I am building an online version of the popular Fishbowl icebreaker game using Python/Django
-- I would love to learn and work with TypeScript and React Native in my new projects!
+- I am building a story telling app! Let me know if you would like to help out.
 
 <br />
 
@@ -86,12 +85,12 @@
 <br />  
   
 ## const who_Am_I = {
-👩‍🎓 &nbsp;"Lifetime-Learner" : "I am passionate about learning, whether that be a new technology or a cooking life-hack about avoiding having to peel potatoes." <br />
+👩‍🎓 &nbsp;"Lifetime-Learner" : "I am passionate about learning, whether that be a new technology or a cooking-related hack." <br />
 
-🎼  &nbsp;"Self-Expression" : "Music is one of my favorite creative outlets (along with stick figure doodling)." \
+🎼  &nbsp;"Self-Expression" : "Music is one of my favorite creative outlets. Currently learning how to improvise on electric guitar" \
 <br />
 
-🌳 &nbsp;"Civic-Engagement" : "I believe that communities thrive with active participation from its citizens. I volunteer at the Central Texas Food Bank and donate/fundraise to charity through my involvement with the running community" 
+🌳 &nbsp;"Civic-Engagement" : "I believe that communities thrive with active participation from its citizens. I love to donate/fundraise to charity through my involvement with the running community" 
 <br />
 
 ## }
