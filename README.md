@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mariakim21/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
-  <a href="mailto:jsmkim09@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-jsmkim09@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:maria@mariaykim.com"><img alt="Gmail" src="https://img.shields.io/badge/-maria@mariaykim.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
 
 ## Hunting Down New Test Subjects&nbsp; 🧟  &nbsp;(Actively Seeking For Open Job Opportunities)
